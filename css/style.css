@@ -1,0 +1,107 @@
+
+*
+	{
+		/*border:2px solid red;*/
+		margin: 0;
+	}
+
+#name
+	{
+		font-family: Edwardian Script ITC;
+		font-size:8em;
+		color: black;
+		height: 200px;
+		padding: 1px;
+	}
+
+
+a
+	{
+		color: black;
+		text-decoration: none;
+		font-family: Bookman Old Style;
+		padding: 5px;
+		text-align: right;
+	}
+
+
+header
+	{
+		opacity: 10px;
+		text-align: center;
+	}
+
+
+body
+	{
+		background-image: url("../image/bg.jpg");
+		/*linear-gradient(lightblue, white, lavender)*/;
+		background-repeat: no-repeat;
+		background-size: 100%;
+	}
+
+
+
+
+
+.container
+	{
+		margin-left: 40px;
+		display: flex;
+/*		flex-direction: row;*/
+		justify-content: center;
+		font-family: Times New Roman;
+		font-size: 25px;
+		color: black;
+		width: 85%;
+		height: 850px;
+		box-shadow: 2px 2px 5px 2px lightgray;
+		
+
+	}
+
+
+.img
+	{ 
+		border: 10px solid white;
+		width: 5px;
+		height: 7px;
+		padding: 20px;
+
+
+	}
+
+
+.paragraph
+	{	
+
+	
+		padding: 40px;
+		border: 3px solid black;
+		border-radius: 20px;
+		width:27%;
+		height: 85%;
+		position: relative;
+		top: 40px;
+	}
+
+.center
+	{
+		height: 800px;
+		width: 500px;
+		border-radius: 20px;
+
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
